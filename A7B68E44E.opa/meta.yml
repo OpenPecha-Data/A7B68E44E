@@ -1,0 +1,20 @@
+id: A7B68E44E
+title: Toh_131-The_Absorption_of_the_Thus-Gone_One%E2%80%99s_Wisdom_Seal-v1
+type: translation
+pechas:
+- IDF8D6462
+- I97AC7AA9
+source_metadata:
+  creationtool: InterText
+  creationtoolversion: '1.0'
+  datatype: PlainText
+  segtype: block
+  adminlang: en-us
+  srclang: bo
+  o-tmf: XML aligned text
+  eft-text-id: UT22084-055-005
+  eft-text-version: 1.5.11 2021
+  title: Toh_131-The_Absorption_of_the_Thus-Gone_One%E2%80%99s_Wisdom_Seal-v1
+alignment_to_base:
+  IDF8D6462/7BFA: C722
+  I97AC7AA9/7C84: C722
